@@ -5,6 +5,27 @@ layout: "home"
 
 Welcome to my portfolio. I'm a backend engineer who enjoys building scalable cloud services using Go, Python, Java, AWS, and Kubernetes. I'm currently exploring cloud security and high-throughput system design.
 
+<a href="https://drive.google.com/file/d/14DsY5VzXFPrSryY2zSweM4k0u86V_oDe/view?usp=drive_link" target="_blank" style="
+  background-color: #1e40af;
+  color: white;
+  padding: 0.6rem 1.4rem;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.2s ease;
+">
+  📄 View Resume
+</a>
+
+<style>
+  a[href*="google.com"]:hover {
+    background-color: #1e3a8a;
+  }
+</style>
+
+
+
 ## Work Experience
 
 **Software Engineer – CARFAX**

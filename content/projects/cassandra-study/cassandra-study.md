@@ -16,7 +16,7 @@ This system study explores the internal architecture and design decisions of [Ap
 <p style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2rem; gap: 1rem;">
 
   <a href="https://drive.google.com/file/d/1m_NAtIGFUyoRGtECzGRUHIc0fFLDQk5A/view?usp=drive_link" target="_blank" style="display: inline-block; background-color: #1e40af; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600;">
-    📄 View Full Technical Report (Google Doc)
+    📄 View Full Technical Report
   </a>
 
   <a href="https://youtu.be/43rrX2F5mf0" target="_blank" style="display: inline-block; background-color: #dc2626; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600;">
