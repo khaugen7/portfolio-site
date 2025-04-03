@@ -7,8 +7,8 @@ draft: false
 tags: ["Go", "Kerberos", "Authentication", "Security", "Client-Server"]
 featured_image: "/images/kerberos_protocol.png"
 ---
-<figure style="width: 80%; max-width: 800px; margin: 2rem auto; text-align: center;">
-  <img src="/images/kerberos_protocol.png" alt="Kerberos Diagram" style="width: 100%;" />
+<figure style="width: 100%; max-width: 800px; margin: 2rem auto; text-align: center;">
+  <img src="/images/kerberos_diagram.png" alt="Kerberos Diagram" style="width: 100%;" />
   <figcaption style="font-size: 0.9rem; color: #888; margin-top: 0.5rem;">
     Kerberos Authentication Flow
   </figcaption>

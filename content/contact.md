@@ -14,15 +14,15 @@ If you'd like to reach out, whether it's for opportunities, collaboration, or ju
   </p>
   <p>
     <label>Your Name:<br />
-    <input type="text" name="name" required style="width: 60%; max-width: 600px;" />
+    <input type="text" name="name" required style="width: 60%; max-width: 600px; color: black;" />
   </p>
   <p>
     <label>Your Email:<br />
-    <input type="email" name="email" required style="width: 60%; max-width: 600px;" />
+    <input type="email" name="email" required style="width: 60%; max-width: 600px; color: black;" />
   </p>
   <p>
     <label>Your Message:<br />
-    <textarea name="message" rows="6" required style="width: 100%; max-width: 600px;"></textarea>
+    <textarea name="message" rows="6" required style="width: 100%; max-width: 600px; color: black;"></textarea>
   </p>
   <p>
     <button type="submit" style="
