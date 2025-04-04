@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Kyle"
+title: "Kyle's Portfolio"
 layout: "home"
 ---
 

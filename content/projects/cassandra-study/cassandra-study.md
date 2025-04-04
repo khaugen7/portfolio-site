@@ -4,6 +4,7 @@ description: "A technical deep dive into the distributed NoSQL architecture of A
 date: 2025-04-02T22:30:00-04:00
 draft: false
 tags: ["Cassandra", "NoSQL", "Distributed Systems", "Database", "Scalability"]
+weight: 4
 ---
 <div style="margin-bottom: 0rem;">
   <img src="/images/cassandra_logo.png"

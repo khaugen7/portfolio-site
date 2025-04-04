@@ -6,6 +6,7 @@ layout: "single"
 draft: false
 tags: ["Go", "Kerberos", "Authentication", "Security", "Client-Server"]
 featured_image: "/images/kerberos_protocol.png"
+weight: 1
 ---
 <figure style="width: 100%; max-width: 800px; margin: 2rem auto; text-align: center;">
   <img src="/images/kerberos_diagram.png" alt="Kerberos Diagram" style="width: 100%;" />
