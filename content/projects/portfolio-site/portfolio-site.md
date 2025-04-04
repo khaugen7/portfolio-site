@@ -4,8 +4,11 @@ description: "Kyle's personal portfolio site"
 date: 2025-04-04
 draft: false
 tags: [
+  "Kyle Haugen",
   "portfolio site",
   "personal website",
+  "Canada", 
+  "London Ontario",
   "developer portfolio",
   "hugo static site",
   "blowfish theme",
