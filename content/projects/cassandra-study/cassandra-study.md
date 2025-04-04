@@ -1,7 +1,7 @@
 ---
 title: "Apache Cassandra System Study"
 description: "A technical deep dive into the distributed NoSQL architecture of Apache Cassandra, exploring performance, scalability, and trade-offs in modern data systems."
-date: 2025-04-02T22:30:00-04:00
+date: 2022-12-08
 draft: false
 tags: ["Cassandra", "NoSQL", "Distributed Systems", "Database", "Scalability"]
 weight: 4

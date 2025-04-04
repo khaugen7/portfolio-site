@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Site"
 description: "Kyle's personal portfolio site"
-date: 2025-04-04T10:27:13-04:00
+date: 2025-04-04
 draft: false
 tags: [
   "portfolio site",

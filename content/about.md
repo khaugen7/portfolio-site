@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 layout: "page"
+date: 2025-04-04
 ---
 
 ## Beyond the Code

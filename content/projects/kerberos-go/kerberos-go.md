@@ -1,7 +1,7 @@
 ---
 title: "Kerberos-GO: Simulating Kerberos Authentication in Go"
 description: "A client-server application implementing a simplified Kerberos authentication protocol, developed as an educational project in Go."
-date: 2025-04-01T21:47:39-04:00
+date: 2022-11-05
 layout: "single"
 draft: false
 tags: ["Go", "Kerberos", "Authentication", "Security", "Client-Server"]

@@ -1,6 +1,7 @@
 ---
 title: "Thanks!"
 layout: "page"
+date: 2025-04-04
 ---
 
 ## 🎉 Thank you!

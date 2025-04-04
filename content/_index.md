@@ -48,9 +48,14 @@ In addition to full-time software engineering, I taught a semester of a cybersec
 
 ## Certifications
 
+### Earned
 CompTIA Security+  
-AWS Certified Solutions Architect – Associate *(in progress)*  
-Planning to pursue AWS Security Specialty  
+
+### In-Progress
+AWS Certified Solutions Architect – Associate
+
+### What's Next
+AWS Security Specialty  
 
 ---
 
