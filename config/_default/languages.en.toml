@@ -9,16 +9,18 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-# logo = "img/logo.png"
+logo = "img/khaugen_profile.jpeg"
 # secondaryLogo = "img/secondary-logo.png"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 description = "Backend Engineer focused on Go, Python, Java, AWS, Kubernetes, and Cloud Security"
 keywords = [
+    "Kyle Haugen",
     "software engineer",
     "golang",
     "python",
     "java",
+    "cyber security",
     "cloud",
     "kubernetes",
     "portfolio",
@@ -31,7 +33,7 @@ name = "Kyle Haugen"
 image = "images/khaugen_profile.jpeg"
 imageQuality = 96
 headline = "Software Engineer | Security Enthusiast"
-bio = "A little bit about you"
+bio = "Software Engineer"
   links = [
     # { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

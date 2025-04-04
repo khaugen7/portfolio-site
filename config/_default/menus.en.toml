@@ -16,14 +16,19 @@ pageRef = "/projects"
 weight = 2
 
 [[main]]
-  name = "About"
-  pageRef = "/about"
-  weight = 5
+name = "Awards"
+pageRef = "/awards"
+weight = 4
 
 [[main]]
-  name = "Contact"
-  pageRef = "/contact"
-  weight = 10
+name = "About"
+pageRef = "/about"
+weight = 5
+
+[[main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 10
 
 #[[main]]
 #  name = "Parent"

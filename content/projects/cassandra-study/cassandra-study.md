@@ -5,25 +5,32 @@ date: 2025-04-02T22:30:00-04:00
 draft: false
 tags: ["Cassandra", "NoSQL", "Distributed Systems", "Database", "Scalability"]
 ---
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/images/cassandra_logo.png" alt="Apache Cassandra Logo" style="max-width: 300px; width: 100%; height: auto;" />
+<div style="margin-bottom: 0rem;">
+  <img src="/images/cassandra_logo.png"
+       alt="Apache Cassandra Logo"
+       style="max-width: 500px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" />
 </div>
 
 ## Overview
 
 This system study explores the internal architecture and design decisions of [Apache Cassandra](https://cassandra.apache.org/), a distributed, peer-to-peer NoSQL database built for high performance and scalability. The project analyzes Cassandra’s strengths, trade-offs, and ideal use-cases—particularly in handling large-scale, fault-tolerant workloads.
 
-<p style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2rem; gap: 1rem;">
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 2rem;">
 
-  <a href="https://drive.google.com/file/d/1m_NAtIGFUyoRGtECzGRUHIc0fFLDQk5A/view?usp=drive_link" target="_blank" style="display: inline-block; background-color: #1e40af; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600;">
+  <a href="https://drive.google.com/file/d/1m_NAtIGFUyoRGtECzGRUHIc0fFLDQk5A/view?usp=drive_link" target="_blank"
+     style="background-color: #1e40af; color: white; padding: 0.75rem 1rem;
+            border-radius: 6px; text-decoration: none; font-weight: 600; text-align: center;">
     📄 View Full Technical Report
   </a>
 
-  <a href="https://youtu.be/43rrX2F5mf0" target="_blank" style="display: inline-block; background-color: #dc2626; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600;">
+  <a href="https://youtu.be/43rrX2F5mf0" target="_blank"
+     style="background-color: #dc2626; color: white; padding: 0.75rem 1rem;
+            border-radius: 6px; text-decoration: none; font-weight: 600; text-align: center;">
     ▶️ Watch Presentation on YouTube
   </a>
 
-</p>
+</div>
+
 
 ## Key Topics Covered
 

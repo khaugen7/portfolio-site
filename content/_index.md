@@ -34,15 +34,15 @@ At CARFAX, I lead backend engineering efforts focused on cloud-based machine lea
 
 **Cybersecurity Instructor – Fanshawe College**
 
-Before transitioning full-time into industry, I taught cybersecurity at the college level. I developed and delivered curriculum on secure software development, network security, and threat modeling, with an emphasis on real-world application. This role reinforced my commitment to building secure systems and communicating complex technical topics clearly—a skill I carry forward into engineering leadership.
+In addition to full-time software engineering, I taught a semester of a cybersecurity course at the college level. I developed and delivered curriculum on secure software development, network security, and threat modeling, with an emphasis on real-world application. This role reinforced my commitment to building secure systems and communicating complex technical topics clearly—a skill I carry forward into engineering leadership.
 
 ---
 
 ## Education
 
-**BSc. Computer Science**, Western University 
+**BSc. Specialization in Computer Science**, Western University
 
-**Diploma in Business**, Fanshawe College
+**Business Diploma**, Lawrence Kinlin School of Business - Fanshawe College
 
 ---
 
