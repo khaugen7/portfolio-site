@@ -37,5 +37,9 @@ jobs:
               git pull origin main
               git merge --no-ff "origin/$branch" -m "Auto-merged $branch on $DATE"
               git push origin main
+
+              # Delete the remote branch after successful merge
+              git push origin --delete "$branch"
+              echo "Deleted merged branch: $branch"
             fi
           done
