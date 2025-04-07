@@ -1,0 +1,41 @@
+name: Scheduled Blog Merge
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour (UTC)
+  workflow_dispatch:     # Allows manual trigger if needed
+
+jobs:
+  merge-scheduled-blogs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Needed to access all branch history
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Fetch all branches
+        run: git fetch --all
+
+      - name: Merge branches scheduled for today
+        run: |
+          DATE=$(date -u +"%Y-%m-%d")
+          echo "Looking for branches scheduled for $DATE..."
+
+          # Loop through remote branches that match the naming convention
+          for branch in $(git branch -r | grep 'origin/blog/' | sed 's|origin/||'); do
+            BRANCH_DATE=$(echo "$branch" | sed -E 's|blog/([0-9]{4}-[0-9]{2}-[0-9]{2})_.*|\1|')
+            if [[ "$BRANCH_DATE" == "$DATE" ]]; then
+              echo "Merging scheduled branch: $branch"
+              git checkout main
+              git pull origin main
+              git merge --no-ff "origin/$branch" -m "Auto-merged $branch on $DATE"
+              git push origin main
+            fi
+          done
