@@ -49,14 +49,14 @@ In addition to full-time software engineering, I taught a semester of a cybersec
 ## Certifications
 
 ### Earned
+AWS Certified Solutions Architect – Associate
 CompTIA Security+  
 
 ### In-Progress
-AWS Certified Solutions Architect – Associate
-
-### What's Next
 AWS Security Specialty  
 
+### What's Next
+Certified Kubernetes Application Developer (CKAD)
 ---
 
 ## Want to work together?
