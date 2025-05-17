@@ -20,6 +20,17 @@ date: 2025-04-04
 
 Unbeknownst to me at the time, my manager had nominated me for the **Fox Star Award**, a prestigious award given to roughly 50 out of 1,300+ CARFAX employees each year. I was honored to receive the award during the company’s annual FY23 meeting in recognition of my contributions to modernizing and expanding the Carfax for Police systems.
 
+## AWS Solutions Architect - Associate
+
+<div style="margin-bottom: 0rem;">
+  <img src="/images/aws_saa_certified.png"
+       alt="CompTIA Security+ Certified Logo"
+       style="max-width: 250px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" />
+</div>
+
+Earning the AWS Solutions Architect – Associate certification marked a key milestone in my cloud engineering journey. Studying for the exam helped reinforce core concepts like high availability, cost optimization, and secure system design across services like EC2, S3, VPC, and IAM. I made heavy use of [Tutorials Dojo’s practice exams](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03/) to test my understanding and identify gaps. This certification deepened my confidence in architecting scalable, fault-tolerant systems on AWS—skills I use daily in my work building and maintaining cloud infrastructure.
+
+
 ## CompTIA Security+ Certification
 
 <div style="margin-bottom: 0rem;">
