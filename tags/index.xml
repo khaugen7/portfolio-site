@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kyle&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Kyle&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Kyle Haugen</copyright>
+    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Security</title>
+      <link>http://localhost:1313/tags/cloud-security/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cloud-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:1313/tags/conference/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/conference/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reinforce</title>
+      <link>http://localhost:1313/tags/reinforce/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/reinforce/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anki</title>
+      <link>http://localhost:1313/tags/anki/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/anki/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>http://localhost:1313/tags/certifications/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/certifications/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Home Security</title>
+      <link>http://localhost:1313/tags/home-security/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/home-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>http://localhost:1313/tags/iot/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/iot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LinkedIn</title>
+      <link>http://localhost:1313/tags/linkedin/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linkedin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>http://localhost:1313/tags/networking/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/networking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Parenting</title>
+      <link>http://localhost:1313/tags/parenting/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/parenting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Self-Study</title>
+      <link>http://localhost:1313/tags/self-study/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/self-study/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Devices</title>
+      <link>http://localhost:1313/tags/smart-devices/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/smart-devices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Back End Developer</title>
+      <link>http://localhost:1313/tags/back-end-developer/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/back-end-developer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blowfish Theme</title>
+      <link>http://localhost:1313/tags/blowfish-theme/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/blowfish-theme/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Canada</title>
+      <link>http://localhost:1313/tags/canada/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/canada/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Developer Portfolio</title>
+      <link>http://localhost:1313/tags/developer-portfolio/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/developer-portfolio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo Blog</title>
+      <link>http://localhost:1313/tags/hugo-blog/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hugo-blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo Static Site</title>
+      <link>http://localhost:1313/tags/hugo-static-site/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hugo-static-site/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kyle Haugen</title>
+      <link>http://localhost:1313/tags/kyle-haugen/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/kyle-haugen/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>London Ontario</title>
+      <link>http://localhost:1313/tags/london-ontario/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/london-ontario/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Netlify Deployment</title>
+      <link>http://localhost:1313/tags/netlify-deployment/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/netlify-deployment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Personal Website</title>
+      <link>http://localhost:1313/tags/personal-website/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/personal-website/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Portfolio Site</title>
+      <link>http://localhost:1313/tags/portfolio-site/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/portfolio-site/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Static Site Generator</title>
+      <link>http://localhost:1313/tags/static-site-generator/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/static-site-generator/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech Portfolio</title>
+      <link>http://localhost:1313/tags/tech-portfolio/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tech-portfolio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cassandra</title>
+      <link>http://localhost:1313/tags/cassandra/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cassandra/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>http://localhost:1313/tags/database/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/database/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Distributed Systems</title>
+      <link>http://localhost:1313/tags/distributed-systems/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/distributed-systems/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NoSQL</title>
+      <link>http://localhost:1313/tags/nosql/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nosql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scalability</title>
+      <link>http://localhost:1313/tags/scalability/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/scalability/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authentication</title>
+      <link>http://localhost:1313/tags/authentication/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/authentication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Client-Server</title>
+      <link>http://localhost:1313/tags/client-server/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/client-server/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kerberos</title>
+      <link>http://localhost:1313/tags/kerberos/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/kerberos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
