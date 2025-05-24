@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Kyle Haugen</copyright>
-    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>eks-scanner: Auditing EKS Clusters for Common Security Risks</title>
+      <link>http://localhost:1313/projects/eks-security-scanner/eks-security-scanner/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/eks-security-scanner/eks-security-scanner/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Kerberos-GO: Simulating Kerberos Authentication in Go</title>
