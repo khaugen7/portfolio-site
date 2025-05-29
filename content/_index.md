@@ -5,7 +5,7 @@ layout: "home"
 
 Welcome to my portfolio. I'm a backend engineer who enjoys building scalable cloud services using Go, Python, Java, AWS, and Kubernetes. I'm currently exploring cloud security and high-throughput system design.
 
-<a href="https://drive.google.com/file/d/143XUFGJSXv4ut7o60v9BhYWihOlOc6wA/view?usp=sharing" target="_blank" style="
+<a href="https://drive.google.com/file/d/1gD9np6xKYr8TVMJwgF1JTkrrTs_-vc0h/view?usp=sharing" target="_blank" style="
   background-color: #1e40af;
   color: white;
   padding: 0.6rem 1.4rem;
