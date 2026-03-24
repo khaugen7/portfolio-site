@@ -28,7 +28,7 @@ Welcome to my portfolio. I'm a backend engineer who enjoys building scalable clo
 
 ## Work Experience
 
-**Software Engineer – CARFAX**
+**Senior Software Engineer – CARFAX**
 
 At CARFAX, I lead backend engineering efforts focused on cloud-based machine learning infrastructure. I’ve designed and deployed a Kubernetes-based platform on AWS to support scalable ML workflows, and helped migrate critical services from legacy systems to containerized environments. I’ve also implemented data lineage tracking with DynamoDB to improve observability and compliance, and regularly contribute to performance tuning and cost optimization across our CI/CD pipelines.
 
