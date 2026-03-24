@@ -21,6 +21,11 @@ pageRef = "/projects"
 weight = 2
 
 [[main]]
+name = "Experience"
+pageRef = "/experience"
+weight = 3
+
+[[main]]
 name = "Awards"
 pageRef = "/awards"
 weight = 4
